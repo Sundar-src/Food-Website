@@ -20,4 +20,4 @@ This is a responsive and interactive food website developed using HTML, CSS, and
 * **Form Validation**: Ensures users submit valid information in the contact form.
 
 ## Demo 
-You can see the live demo here : 
+You can see the live demo here : https://savorspot-food-website.netlify.app/
