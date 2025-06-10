@@ -21,3 +21,6 @@ This is a responsive and interactive food website developed using HTML, CSS, and
 
 ## Demo 
 You can see the live demo here : https://savorspot-food-website.netlify.app/
+
+## 📷 Preview:
+![Card Slider Preview](./screenshot.png)
